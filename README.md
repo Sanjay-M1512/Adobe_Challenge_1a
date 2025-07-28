@@ -117,7 +117,3 @@ docker run --rm \
 - Adobe Hackathon 2025 – Round 1A
 
 ---
-
-## 📜 License
-
-This project is licensed for use only within the scope of the Adobe India Hackathon 2025. Keep the GitHub repo **private until the final submission date**.
